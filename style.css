@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bg-gray{
+    background-color: #E5E5E5;
+}
+
+.padding{
+    padding: 32px 24px;
+}
+
+.div2-text-font{
+    
+    padding-top: 130px;
+}
+
+
+.col{
+    color: #323232;
+}
+
+.padding2_container{
+    padding: 32px 0;
+}
+
+.div-two{
+    margin-left: 0px;
+}
